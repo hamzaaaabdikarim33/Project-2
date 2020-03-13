@@ -1,5 +1,6 @@
-# WiredIn
+# Hamza Abdikarim Project 2 WiredIn
 
+Deployed application
 WiredIn is a free social networking site for gamers that allows registered users to create profiles, find and add their favorite games, and calculate the time required to complete their games based on their designated playstyle.
 
 New users will need to create an account:
